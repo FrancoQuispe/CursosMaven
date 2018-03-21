@@ -1,0 +1,10 @@
+spring:
+  jpa:
+    database: MYSQL
+    hibernate:
+      ddl-auto: none
+  datasource:
+    url: jdbc:mysql://yanuks.tk:3306/clinica_dev
+    username: yanuks
+    password: wf24QemEryFH1nuy
+    driver-class-name: com.mysql.jdbc.Driver
